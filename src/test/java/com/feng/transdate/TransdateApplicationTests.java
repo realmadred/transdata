@@ -1,4 +1,4 @@
-package com.feng.transdate.transdate;
+package com.feng.transdate;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
