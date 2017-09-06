@@ -1,4 +1,4 @@
-package com.feng.transdate.transdate;
+package com.feng.transdate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
